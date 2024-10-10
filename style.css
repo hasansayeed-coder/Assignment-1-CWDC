@@ -473,3 +473,26 @@ margin-left: 30px;
   margin-right: 10px; 
   box-sizing: border-box; 
 }
+
+.need-support-btn{
+  border-radius: 8px;
+  background: rgb(255, 255, 255);
+  padding: 17px 20px 17px 20px;
+  margin: 20px 0 0 10px;
+}
+
+.footer-component{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 80px 80px 30px 150px ;
+}
+
+.commitment{
+  margin-top: 7px;
+}
+
+.social-icons{
+  margin-right: 45px;
+}
+
